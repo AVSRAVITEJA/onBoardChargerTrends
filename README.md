@@ -1,1 +1,3 @@
 # onBoardChargerTrends
+An "on-board charger" in an electric vehicle (EV) is a device integrated within the car that converts alternating current (AC) power from a standard power outlet into direct current (DC) power needed to charge the vehicle's battery, essentially allowing the EV to be recharged from a regular household electrical source; it is a key component for convenient charging at home or public charging stations. 
+The charging point ratio is the number of electric vehicles (EVs) per charging station. The ideal ratio varies depending on factors like the type of EV, geography, and urbanization. 
